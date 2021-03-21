@@ -5,7 +5,8 @@ import {firebase, db, auth} from './services/firebase'
 
 function App() {
     return (
-        <div className="App">
+        <div>
+            <div></div>
             <RootRouter/>
         </div>
     );
